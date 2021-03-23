@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
+gem 'html-proofer'
 gem "jekyll-theme-chirpy"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
